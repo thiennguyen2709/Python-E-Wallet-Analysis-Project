@@ -1,4 +1,4 @@
-# Python e-Wallet Analysis Project
+# Python - e-Wallet Analysis Project
 ### **I. Project Assumption**
 My company runs business in e-Wallet field. My manager requires more business information such as payment status, transaction volumn of each type,... As a data analyst, I need to analyze and response to him by using:
 - Data tables: including 3 data tables:
